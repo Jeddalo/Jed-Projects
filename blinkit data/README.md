@@ -1,10 +1,21 @@
 # BLINKIT DATA ANALYSIS
 
 ## 📚 About Data
+Analysis of BLINKIT store data, a popular online grocery shopping platform.
 
-## 💡 Highlights
+The dataset consists of 8,523 rows and 12 distinct columns.
+## 💡 Key Data Attributes
+- **Item Fat Content**
+- **Outlet Metrics:** Includes details such as *Outlet Type*,*Outlet Location Tier* and *Outlet Size*
+- **Performance Metrics:** Tracks vital business indicators such as *Total sales*, *Average Sales*, *Number of Items Sold*, *Average rating*.
+- **Supporting data:** Contains additional technical fields like *Item Visibility Score*, *Item Weight* and *Outlet establishment Year*.
 
-## ✏️ Data Wrangling
+## ✏️ Workflow Process
+- **Data Connection**
+- **Data Cleaning and Transformation*8
+- **Data Modelling**
+- **Data Processing & DAX**
+- **Chart Layout & Report Generation**
 
 ## 📊 Visualization
 
